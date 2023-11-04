@@ -1,2 +1,1 @@
-Curso de git y github 
-por henry tito
+Curso de git
